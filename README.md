@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rod. I'm a family human programmer, artist, and small (tiny) businessman. 
+I'm Rod. A family human, a programmer, an artist, and small (tiny) businessman. 
 
 **Coming Soon**
 Capslock Super Hotkey - powerful keyboard bind script for Windows (Windows power users, you need this)
@@ -24,7 +24,7 @@ Can I and my brother build a fun coop VR game?
 
 Other things. So many things. Too many things.
 
-What can I do for you?
+**What can I do for you?**
 Lots of things I have done, taught, or can teach. I will list them. Perhaps we will collaborate.
 
 Thank you for your time and attention. Feel free to reach out!
